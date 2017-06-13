@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Re(a)d~~y~~i to improve (my english)
+title: Ready to improve (my english)
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
+
+#Re(a)d~~y~~i to improve (my english)
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
