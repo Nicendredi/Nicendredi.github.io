@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-# Re(a)d(y)_i_ to improve (my english)
+# Re(a)d(y)_i_  to improve (my english)
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
