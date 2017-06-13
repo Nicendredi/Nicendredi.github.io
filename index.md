@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Redi to improve (my english)
+title: Re(a)d~~y~~i to improve (my english)
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
