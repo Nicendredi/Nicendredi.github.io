@@ -13,18 +13,18 @@
 - title: Social
   links:
     - name: Facebook
-      link:
+      link: "https://www.facebook.com/nendredi"
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link:
+      link: "https://twitter.com/Nendredi"
       social_icon: Twitter
       new_window: true
     - name: Google+
-      link:
+      link: "https://plus.google.com/u/0/116609474027872227863"
       social_icon: Google Plus
       new_window: true
     - name: LinkedIn
-      link:
+      link: "https://www.linkedin.com/in/nicolasendredi/"
       social_icon: LinkedIn
       new_window: true
