@@ -4,9 +4,9 @@
 $pattern: "{{ site.baseurl }}/images/pattern.png";
 $screenshot-buttons: "{{ site.baseurl }}/images/screenshot-buttons.svg";
 
-$brand-color: #FFA715;
-$html-background-color: #222;
-$secondary-brand-color: #FFC461;
+$brand-color: #336699;
+$html-background-color: #333;
+$secondary-brand-color: #007399;
 $middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
 
 // Breakpoints
