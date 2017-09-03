@@ -1,6 +1,6 @@
 ---
 name: Nicolas Endredi
 position: Developer
-image_path: "{{ site.url }}/images/bouletmaton.jpg"
+image_path: "https://nicendredi.github.io/images/disrespect.jpg"
 twitter: Nendredi
 ---
