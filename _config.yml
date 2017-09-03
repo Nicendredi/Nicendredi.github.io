@@ -1,8 +1,8 @@
 title: Nicendredi
 url: "https://nicendredi.github.io"
 baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
+google_analytics_key: "UA-105783292-1"
+google_maps_javascript_api_key: "AIzaSyB2WvnNCAqmMqHoF3gCMzTRrJ7vsriyywQ"
 disqus_shortname: "nendredi"
 
 # Default description in social shares for the jekyll-seo-tag gem
