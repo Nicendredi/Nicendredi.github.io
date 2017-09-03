@@ -21,3 +21,8 @@ My personal website using the [Urban theme](https://github.com/CloudCannon/urban
 # New features
 
 * Form contact using Fromspree
+* Comments activated for blog posts using [Disqus](https://disqus.com/)
+
+# Future Features
+
+* A wiki-like database of every little thing I came across while developing
