@@ -20,7 +20,7 @@ My personal website using the [Urban theme](https://github.com/CloudCannon/urban
 
 # New features
 
-* Command line base creation and publication of posts using [Jekyll::Compose](https://github.com/jekyll/jekyll-compose)
+* Command line based creation and publication of posts using [Jekyll::Compose](https://github.com/jekyll/jekyll-compose)
 * Form contact using Fromspree
 * Comments activated for blog posts using [Disqus](https://disqus.com/)
 * Setting up Google Analytics
