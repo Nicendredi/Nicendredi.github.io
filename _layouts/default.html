@@ -30,7 +30,7 @@
 	<body>
 		<header>
 			<div class="container">
-				<h1 class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Urban" width="150"></a></h1>
+				<h1 class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="{{ site.data.company.title }}" width="150"></a></h1>
 				{% include navigation.html %}
 			</div>
 		</header>
@@ -38,7 +38,6 @@
 
 		<footer class="diagonal">
 			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
 
 				<div class="footer-columns">
 					{% for column in site.data.footer %}
