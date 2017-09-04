@@ -23,7 +23,7 @@ Moreover I started thinking on how to make the blog multilingual and hit a wall 
 
 So there I am, with a Jekyll Bootstrap project that I do not like, but still that urge to make a blog. Being the type of person who browse aimlessly until it finds something worth it, I dug up a great use of Jekyll, GitHub and cloud sharing : [CloudCannon]. First thing first, ~~I'm the realest~~ this is not an ad for that company, I am just fan of the idea behind it and a bit jealous I did not build it first. I will not list every functionality, but the most important is that, by versioning a Jekyll project on GitHub and developing a web interface to edit the content of the website, they have created an ultra light-weight CMS easy to use and improve. If you want a fascinating example just read the [Netflix's Case Study].
 
-Anyhow after reading a few pages and consulting their well made [tutorial database][CloudCannon Academy], I was sold, but being the penniless developer that I am, I cringed when I read the word *Pricing*. At the exact moment I was going to close that tab, I spied with little eye, something starting with *F*... [Freebies !]
+Anyhow after reading a few pages and consulting their well made [tutorial database][CloudCannon Academy], I was sold, but being the penniless developer that I am, I cringed when I read the word *Pricing*. At the exact moment I was going to close that tab, I spied with little eye, something starting with *F*... [Freebies] !
 And not any freebies, but Jekyll Templates so well done they should come with every install of Jekyll so people knew straight from the beginning how eye-pleasing and efficient can a good Jekyll website be.
 
 So I started tinkering with the theme to make it mine and configure it. It was so intuitive that in a few hours all was set and clean. I'm writing this post on the next day and I fell like nothing can stop me. This website is empowered by Jekyll and CloudCannon but the real thing they empowered is me.
@@ -35,4 +35,6 @@ So I started tinkering with the theme to make it mine and configure it. It was s
 [CloudCannon]: https://cloudcannon.com
 [Netflix's Case Study]: https://cloudcannon.com/case-studies/netflix/
 [CloudCannon Academy]: https://learn.cloudcannon.com/
-[Freebies !]: https://cloudcannon.com/freebies/
+[Freebies]: https://cloudcannon.com/freebies/
+
+**TLDR;** Building a blog is hard, but it's easier with [CloudCannon]'s [Freebies]
